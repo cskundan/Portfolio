@@ -30,8 +30,8 @@ const Projects = ({ darkMode }) => {
       desc: "A responsive portfolio website showcasing my projects, technical skills, certifications, and experience with a modern interface, smooth navigation, and mobile-friendly design for a professional online presence.",
       image: project3,
       tags: ["React", "EmailJS"],
-      github: "https://github.com/cskundan",
-      demo: "http://localhost:5173/#home",
+      github: "https://github.com/cskundan/Portfolio",
+      demo: "https://portfolio-f133.onrender.com/",
     },
   ];
 
