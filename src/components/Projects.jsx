@@ -12,8 +12,8 @@ const Projects = ({ darkMode }) => {
       desc: "A responsive MERN stack e-commerce website with secure JWT authentication, product management, shopping cart, admin dashboard, and RESTful APIs for a seamless online shopping experience.",
       image: project1,
       tags: ["React", "Node.js", "MongoDB", "Express"],
-      github: "https://github.com/cskundan",
-      demo: "YOUR_ECOMMERCE_LIVE_URL",
+      github: "https://github.com/cskundan/E-Commerce",
+      demo: "https://e-commerce-1-xl2n.onrender.com",
     },
     {
       id: 2,
